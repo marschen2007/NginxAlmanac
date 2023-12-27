@@ -1,4 +1,4 @@
 # NginxAlmanac
 
 官網必看
-https://nginx.org/
+(https://nginx.org/) OSS 版

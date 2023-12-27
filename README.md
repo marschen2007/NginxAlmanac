@@ -1,5 +1,5 @@
 # NginxAlmanac
 
-＃＃官網必看
+##官網必看
 
-(https://nginx.org/) OSS 版
+- (https://nginx.org/) OSS 版
